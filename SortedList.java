@@ -1,5 +1,3 @@
-package com.company.realUtils;
-
 /**
  * @author wangwentian0@hotmail.com
  * Sorted(asc) single linked list implemented in java
