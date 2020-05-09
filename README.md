@@ -1,2 +1,2 @@
 # sortedList
-single linked list implemented in java
+Sorted Single linked list implemented in Java. Easy to use and modify.
